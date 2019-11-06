@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Welcome!</string>
+    <string name="subtitle">Browse 3000+ Stores Shop and Earn up to 55% Cash Back</string>
+    <string name="app_name"></string>
+    <string name="facebook_app_id">493748657875245</string>
+    <string name="fb_login_protocol_scheme">fb493748657875245</string>
+</resources>
